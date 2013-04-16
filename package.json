@@ -1,0 +1,13 @@
+{
+    "name": "market-black-magic",
+    "version": "0.0.1",
+    "dependencies": {
+        "connect": "latest",
+        "connect-views": "latest",
+        "marked" : "latest"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
+}

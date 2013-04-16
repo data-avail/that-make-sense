@@ -8,7 +8,6 @@
     , "dependencies": {
         "connect": "latest",
         "connect-views": "latest",
-        "markdown" : "latest",
         "marked" : "latest"
     }
     , "repository": {"type" : "git"    , "url" : "http://bitbucket.com/baio/rent"}
