@@ -1,0 +1,15 @@
+    { "name": "mbm.server"
+    , "description": "mbm server"
+    , "version": "0.0.1"
+    , "url": "http://bitbucket.com/baio/rent"
+    , "author": "Max Putilov <max.putilov@gmail.com>"
+    , "engines": ["node >= 0.4.0"]
+    , "main": "./server.js"
+    , "dependencies": {
+        "connect": "latest",
+        "connect-views": "latest",
+        "markdown" : "latest",
+        "marked" : "latest"
+    }
+    , "repository": {"type" : "git"    , "url" : "http://bitbucket.com/baio/rent"}
+}
