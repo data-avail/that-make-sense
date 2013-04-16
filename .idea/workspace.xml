@@ -4,7 +4,7 @@
     <list default="true" id="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" name="Default" comment="" />
     <ignored path="market-black-magick.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/wtf-150413.md" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366117268440" ignored="false" />
+    <file path="/wtf-150413.md" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366118444122" ignored="false" />
     <file path="/server.coffee" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366106886267" ignored="false" />
     <file path="/test.html" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366028773639" ignored="false" />
     <file path="/_index.md" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366117091716" ignored="false" />
@@ -14,7 +14,7 @@
     <file path="/_layout.htm" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366098809047" ignored="false" />
     <file path="/boston-160413.md" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366109733258" ignored="false" />
     <file path="/Procfile" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366110152206" ignored="false" />
-    <file path="/week7notes-160413.md" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366117180118" ignored="false" />
+    <file path="/week7notes-160413.md" changelist="b393eec6-d2f0-4bdb-a283-99b0e7e81d1c" time="1366118399865" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <file leaf-file-name="wtf-150413.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/wtf-150413.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1245" selection-end="1245" vertical-scroll-proportion="0.34230193">
+            <state line="69" column="1" selection-start="2680" selection-end="2680" vertical-scroll-proportion="0.8221226">
               <folding />
             </state>
           </provider>
@@ -91,7 +91,7 @@
       <file leaf-file-name="week7notes-160413.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/week7notes-160413.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="16" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+            <state line="4" column="9" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -480,14 +480,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/week7notes-160413.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+        <state line="4" column="9" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/wtf-150413.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1245" selection-end="1245" vertical-scroll-proportion="0.34230193">
+        <state line="69" column="1" selection-start="2680" selection-end="2680" vertical-scroll-proportion="0.8221226">
           <folding />
         </state>
       </provider>

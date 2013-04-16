@@ -1,4 +1,4 @@
-#Notes along the lecture#
+#Week 7, Notes along the lecture#
 
 Info can affect  prices
 
@@ -96,5 +96,5 @@ For volatile bigger band needed
     lower = mid - std
     val = (price - mid / std)
 
-
+tags: class
 
