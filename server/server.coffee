@@ -29,4 +29,4 @@ app =
     )
   .use(connect.static("assets"))
   .use(views())
-  .listen(8080)
+  .listen(process.env.PORT || 8080)

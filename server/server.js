@@ -36,6 +36,6 @@
     }
     console.log(req.url);
     return next();
-  }).use(connect["static"]("assets")).use(views()).listen(8080);
+  }).use(connect["static"]("assets")).use(views()).listen(process.env.PORT || 8080);
 
 }).call(this);
