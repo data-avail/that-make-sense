@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/market-black-magic.iml" filepath="$PROJECT_DIR$/.idea/market-black-magic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/market-black-magic.iml" filepath="$PROJECT_DIR$/.idea/market-black-magic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/that-mak-sense.iml" filepath="$PROJECT_DIR$/.idea/that-mak-sense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/that-make-sense.iml" filepath="$PROJECT_DIR$/.idea/that-make-sense.iml" />
     </modules>
   </component>
 </project>
