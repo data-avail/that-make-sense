@@ -18,12 +18,20 @@ views.engines.marked = ->
 
 views.engines.extensions['.md'] = views.engines.marked
 
+views.engines.html = ->
+
+  contentType: 'text/html'
+  render: (str, callback) ->
+    str = body.replace("{content}", str)
+    callback null, str
+
+views.engines.extensions['.html'] = views.engines.html
 
 app =
   connect()
   .use((req, res, next) ->
       if (req.url == "/")
-        req.url = "/posts/_index.md"
+        req.url = "/views/home/index.html"
       console.log req.url
       next()
     )

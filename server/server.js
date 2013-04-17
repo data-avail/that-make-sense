@@ -30,9 +30,21 @@
 
   views.engines.extensions['.md'] = views.engines.marked;
 
+  views.engines.html = function() {
+    return {
+      contentType: 'text/html',
+      render: function(str, callback) {
+        str = body.replace("{content}", str);
+        return callback(null, str);
+      }
+    };
+  };
+
+  views.engines.extensions['.html'] = views.engines.html;
+
   app = connect().use(function(req, res, next) {
     if (req.url === "/") {
-      req.url = "/posts/_index.md";
+      req.url = "/views/home/index.html";
     }
     console.log(req.url);
     return next();
